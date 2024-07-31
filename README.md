@@ -1,7 +1,7 @@
 
 # Helping Hands
 
-The "Helping Hand Charitable Trust" website is a dynamic platform designed to facilitate seamless interactions between donors, beneficiaries, and the organization. Leveraging a combination of HTML, CSS, and JavaScript, this website aims to enhance user engagement, promote transparency, and streamline donation processes.
+The "Helping Hand" is a charitable trust website is a dynamic platform designed to facilitate seamless interactions between donors, beneficiaries, and the organization. Leveraging a combination of HTML, CSS, and JavaScript, this website aims to enhance user engagement, promote transparency, and streamline donation processes.
 
 ## Features
 
